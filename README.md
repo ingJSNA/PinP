@@ -1,4 +1,4 @@
 PinP
 ====
 
-Processign in Presentations
+Processing in Presentations
